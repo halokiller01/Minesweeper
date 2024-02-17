@@ -64,6 +64,7 @@ void placeMines(int rows, int cols, int mines)
 void main()
 {
     printf("Welcome to the MINESWEEPER\n");
+    printf("HEEHEE");
     int start;
     int rows = 10;
     int cols = 10;
